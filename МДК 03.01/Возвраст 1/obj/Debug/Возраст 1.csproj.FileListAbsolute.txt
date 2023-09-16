@@ -1,0 +1,13 @@
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\bin\Debug\Возраст 1.exe.config
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\bin\Debug\Возраст 1.exe
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\bin\Debug\Возраст 1.pdb
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.csproj.AssemblyReference.cache
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст_1.Form1.resources
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст_1.Properties.Resources.resources
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст_1.Serg1.resources
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст_1.Vlad1.resources
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.csproj.GenerateResource.cache
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.exe
+C:\Users\student\Documents\PhotoProfiler\Возраст 1\obj\Debug\Возраст 1.pdb

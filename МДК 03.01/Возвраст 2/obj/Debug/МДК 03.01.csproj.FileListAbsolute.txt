@@ -1,0 +1,15 @@
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\bin\Debug\МДК 03.01.exe.config
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\bin\Debug\МДК 03.01.exe
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\bin\Debug\МДК 03.01.pdb
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.csproj.AssemblyReference.cache
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.csproj.SuggestedBindingRedirects.cache
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Form1.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Properties.Resources.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Serg1.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Serg2.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Vlad1.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК_03._01.Vlad2.resources
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.csproj.GenerateResource.cache
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.csproj.CoreCompileInputs.cache
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.exe
+E:\МДК 03.01\Новая папка\shiza\МДК 03.01\obj\Debug\МДК 03.01.pdb
